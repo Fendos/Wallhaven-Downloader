@@ -13,7 +13,7 @@ REVISION=0.2.6
 #####################################
 # Enter your API key
 # you can get it here: https://wallhaven.cc/settings/account
-APIKEY=""
+APIKEY="lSJGfjNwNO5dsH7G4syBuCmuqvfnGAEC"
 #####################################
 ### End needed for NSFW/Favorites ###
 #####################################
