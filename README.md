@@ -12,6 +12,7 @@ Dependencies:
 - jq
 - gnu parallel (if you wish to use it)
 ### 用法
+```
 Usage: ./wallhaven.sh [OPTIONS]
 Download wallpapers from wallhaven.cc
 
@@ -65,3 +66,4 @@ the color #cc0000 with a resolution of 1920x1080 and an aspectratio of 16x9
 to ~/wp/ starting with page 1 from the categories general, anime and people,
 including SFW Content and excluding sketchy and NSWF Content while utilizing
 gnu paralle
+```
