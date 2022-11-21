@@ -67,3 +67,6 @@ to ~/wp/ starting with page 1 from the categories general, anime and people,
 including SFW Content and excluding sketchy and NSWF Content while utilizing
 gnu paralle
 ```
+#### 我的用法（下载非露骨人物图片，数量 1000 ，分辨率 3440x1440 以上，16:9 比例或者 16:10 用来排除竖屏壁纸，浏览量逆序排序，流量量排序完就几乎全是美女了）：
+
+ `./wallhaven.sh -l ./Wallhaven -n 1000 -c 001 -f 100 -g 3440x1440 -a 16x9 -m views -o desc -p 1`
